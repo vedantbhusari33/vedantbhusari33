@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Vedant Bhusari
 
-<!--
-**vedantbhusari33/vedantbhusari33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | 💡 Tech Enthusiast | 🎯 Lifelong Learner  
 
-Here are some ideas to get you started:
+I love building clean, scalable, and impactful digital experiences. From frontend interfaces to backend logic, I enjoy the entire journey of transforming ideas into reality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+**Frontend:** HTML, CSS, JavaScript, React  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB  
+**Other:** Git, GitHub, Postman, Excel (Advanced)
+
+---
+
+## 📌 What I Do
+- Build full-stack web applications  
+- Create responsive and user-friendly UIs  
+- Develop API-driven backend systems  
+- Explore new tech and improve every day  
+
+---
+
+## 🎯 Current Focus
+Learning and building more in the **MERN stack**, backend architecture, and deploying real-world projects.
+
+---
+
+## 🌱 Quote I Follow
+**"Code. Create. Improve. Repeat."**
+
+---
+
+## 📫 Connect With Me
+🔗 LinkedIn: www.linkedin.com/in/vedant-bhusari98765  
