@@ -1,36 +1,56 @@
-# 👋 Hi, I'm Vedant Bhusari
+# Hi, I'm Vedant Bhusari 👋
 
 🚀 Full Stack Developer | 💡 Tech Enthusiast | 🎯 Lifelong Learner  
 
-I love building clean, scalable, and impactful digital experiences. From frontend interfaces to backend logic, I enjoy the entire journey of transforming ideas into reality.
+I enjoy building scalable web applications and solving real-world problems through technology. I love working across the stack — from designing responsive UIs to developing robust backend systems.
 
 ---
 
-## 🔧 Tech Stack
+## 🛠 Tech Stack
 **Frontend:** HTML, CSS, JavaScript, React  
 **Backend:** Node.js, Express.js  
 **Database:** MongoDB  
-**Other:** Git, GitHub, Postman, Excel (Advanced)
+**Tools:** Git, GitHub, Postman, Excel  
 
 ---
 
-## 📌 What I Do
+## 🚀 Featured Projects
+
+### 🌾 Agriveista  
+Smart farming assistant built to help farmers with insights and better decision-making  
+🔗 Live: <your-link>  
+🔗 Repo: <your-link>
+
+### 💊 Medical Reminder Web App  
+A web application to help users manage medicine schedules efficiently  
+🔗 Live: <your-link>  
+🔗 Repo: <your-link>
+
+---
+
+## 🏆 Achievements
+- 🥉 Secured **5th place** in Swarajya Hack Fest 2026  
+- Built real-world projects with deployment  
+
+---
+
+## 📈 What I Do
 - Build full-stack web applications  
-- Create responsive and user-friendly UIs  
 - Develop API-driven backend systems  
-- Explore new tech and improve every day  
+- Create clean and responsive UI/UX  
+- Continuously learn and improve  
 
 ---
 
 ## 🎯 Current Focus
-Learning and building more in the **MERN stack**, backend architecture, and deploying real-world projects.
+Exploring advanced MERN stack, backend architecture, and open-source contributions.
 
 ---
 
-## 🌱 Quote I Follow
-**"Code. Create. Improve. Repeat."**
+## 🌱 Open Source
+Actively looking forward to contributing to Open Source programs like **GSSoC 2026**.
 
 ---
 
 ## 📫 Connect With Me
-🔗 LinkedIn: www.linkedin.com/in/vedant-bhusari98765  
+🔗 LinkedIn: https://www.linkedin.com/in/vedant-bhusari98765 
