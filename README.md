@@ -47,8 +47,16 @@ Exploring advanced MERN stack, backend architecture, and open-source contributio
 
 ---
 
+## 🚀 Open Source Contributions
+
+- Resolved dark mode shortcut icon issue in **MaterialYouNewTab** (JavaScript, CSS)  
+  🔗 [View Pull Request](https://github.com/prem-k-r/MaterialYouNewTab/pull/1)
+
+---
+
 ## 🌱 Open Source
-Actively looking forward to contributing to Open Source programs like **GSSoC 2026**.
+
+Actively contributing to open-source projects and looking forward to participating in programs like **GirlScript Summer of Code 2026**.
 
 ---
 
