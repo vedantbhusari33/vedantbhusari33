@@ -119,10 +119,6 @@ Hi, I'm **Vedant Bhusari**, a final-year Electronics and Telecommunication Engin
 
 <img src="assets/metrics.languages.svg" height="165" alt="Most-used languages">
 
-<br><br>
-
-<img src="assets/metrics.achievements.svg" width="90%" alt="GitHub achievements">
-
 </div>
 
 ---
