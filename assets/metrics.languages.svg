@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 165" role="img" aria-label="Language metrics pending first workflow run">
+  <rect width="420" height="165" rx="12" fill="#0f172a"/>
+  <rect x="1" y="1" width="418" height="163" rx="11" fill="none" stroke="#1e293b"/>
+  <text x="210" y="72" text-anchor="middle" fill="#38bdf8" font-family="ui-sans-serif,Segoe UI,sans-serif" font-size="16" font-weight="700">Language metrics</text>
+  <text x="210" y="99" text-anchor="middle" fill="#94a3b8" font-family="ui-sans-serif,Segoe UI,sans-serif" font-size="12">Generated after the first Metrics run</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 150" role="img" aria-label="Contribution calendar pending first workflow run">
+  <rect width="820" height="150" rx="12" fill="#0f172a"/>
+  <rect x="1" y="1" width="818" height="148" rx="11" fill="none" stroke="#1e293b"/>
+  <text x="410" y="66" text-anchor="middle" fill="#38bdf8" font-family="ui-sans-serif,Segoe UI,sans-serif" font-size="18" font-weight="700">Contribution calendar is ready</text>
+  <text x="410" y="94" text-anchor="middle" fill="#94a3b8" font-family="ui-sans-serif,Segoe UI,sans-serif" font-size="13">Run the Metrics workflow once to replace this setup card with live data.</text>
+</svg>

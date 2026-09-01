@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repositories in README order. Stars, forks and primary language are refreshed from GitHub automatically.",
+  "projects": [
+    {
+      "repo": "Github-Portfolio-Analyzer-and-Enhancer",
+      "description": "An AI-powered GitHub auditor with recruiter-focused scores, project analysis and an actionable portfolio improvement roadmap."
+    },
+    {
+      "repo": "emoticrypt",
+      "description": "An emotion-aware encryption app that protects message content while preserving a detectable emotional signature."
+    },
+    {
+      "repo": "sevacare",
+      "description": "A medical reminder app that helps people schedule medicines, track doses and receive timely notifications."
+    },
+    {
+      "repo": "Resume-Analyzer",
+      "description": "An AI career tool for resume scoring, ATS checks, job matching, skill-gap detection and improvement roadmaps."
+    }
+  ]
+}
